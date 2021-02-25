@@ -1,0 +1,13 @@
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.exe
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.deps.json
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.runtimeconfig.json
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.runtimeconfig.dev.json
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.dll
+C:\Users\ADM\Documents\GFT_UNI\exerc3\bin\Debug\netcoreapp3.1\exerc3.pdb
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.AssemblyInfoInputs.cache
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.AssemblyInfo.cs
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.dll
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.pdb
+C:\Users\ADM\Documents\GFT_UNI\exerc3\obj\Debug\netcoreapp3.1\exerc3.genruntimeconfig.cache
